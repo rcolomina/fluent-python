@@ -1,0 +1,1 @@
+# cartesian product using a list comprehension
