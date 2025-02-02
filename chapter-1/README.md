@@ -182,4 +182,15 @@ Getting the number of items in a collections is a common operation and must work
 * [Python in a Nutshell](http://stackoverflow.com/users/95810/alex-martelli)
 * Python 3 : Python Essential Reference
 * Python cookbook
+* The Art of the Metaobjects Protocol (MOP)
+
+## Soapbox
+
+### Data Model or Object Model?
+Documentation favors **Data Model** over **Object Model**, however some authors woulde say "Python object model" instead of "Python data Model"
+### Magic Methods
+Obviously these are not magic (difficult to implement), and Python community enables users to leverage the same tools available to core developers
+### Metaobjects
+* **The Art of Metaobject Protocol (AMOP) book is recommended**. Metaobject protocol is an API for core language constructs
+* Make reference to [`zope.interface`](http://docs.zope.org/zope.interface)
 
