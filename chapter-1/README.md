@@ -192,5 +192,5 @@ Documentation favors **Data Model** over **Object Model**, however some authors 
 Obviously these are not magic (difficult to implement), and Python community enables users to leverage the same tools available to core developers
 ### Metaobjects
 * **The Art of Metaobject Protocol (AMOP) book is recommended**. Metaobject protocol is an API for core language constructs
-* Finally mention that a rich metaobject protocol leads to aspect-oriented programming is easier, in a dynamic language like Python. Look at [`zope.interface`](https://zopeinterface.readthedocs.io/en/latest/README.html)
+* Finally mention that a rich metaobject protocol leads to aspect-oriented programming becomes easier, such as the dynamic language Python. Reference to interface programming in Python at [`zope.interface`](https://zopeinterface.readthedocs.io/en/latest/README.html)
 
