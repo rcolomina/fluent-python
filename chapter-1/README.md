@@ -1,11 +1,12 @@
 # The Python Data Model
 
-## Example 1-1: A deck as a squence of cards
+## A deck as a squence of cards
 
 The chapter starts with an example about **magic methods** or **dunder methods** applied to a Pythonic Card Deck
 
 It creates a deck of cards with collection and a class with `__len__` and `__getitem__` implemented. 
 
+See example 1.1
 
 ## How Special Methods Are Used
 
@@ -47,6 +48,7 @@ Creates an example of class of Euclidean vectors used in maths and physics
 For that dunder methods: `__abs__`, `__mul__`, `__add__` were implemanted accordantly 
 sum of vectors and scalar per vector linear algebra operations
 
+See example 1.2
 
 ## String Representation
 
